@@ -6,7 +6,7 @@
 }
 
 .container {
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   background: #e3f9ff;
   display: flex;
@@ -65,5 +65,4 @@ form input.operator {
 }
 
 @media screen {
-  
 }
